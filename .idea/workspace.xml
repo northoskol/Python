@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e192207-6aaf-4f43-a868-3af4c54db7e2" name="Default Changelist" comment="create seminar branch">
-      <change afterPath="$PROJECT_DIR$/seminars/seminar005/task31.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/seminar005/task1.py" beforeDir="false" />
-    </list>
+    <list default="true" id="3e192207-6aaf-4f43-a868-3af4c54db7e2" name="Default Changelist" comment="merge" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="thirdHW" />
+        <entry key="$PROJECT_DIR$" value="seminar" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -194,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695375732149</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="merge">
+      <created>1695451831322</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695451831322</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +272,7 @@
     <MESSAGE value="sem04" />
     <MESSAGE value="third_HW" />
     <MESSAGE value="create seminar branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="create seminar branch" />
+    <MESSAGE value="merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge" />
   </component>
 </project>
