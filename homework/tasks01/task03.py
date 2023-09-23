@@ -13,4 +13,4 @@ b = n % 1000 // 100 + n % 100 // 10 + n % 10
 if a == b:
     print("yes")
 else:
-    print("no")    
+    print("no")
